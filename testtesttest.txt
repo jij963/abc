@@ -1,9 +1,6 @@
 test test test
-<<<<<<< HEAD
 1
 23456
 7abcd
 ef
 aaaaa
-=======
->>>>>>> parent of d30536f... valmis
